@@ -29,7 +29,10 @@ public class BeforeClassAfterClass {
     public void aftermethod(){
         System.out.println("After Method");
     }
-
+    @Test
+    public void Testcase3() {
+        System.out.println("Testcase3");
+    }
 
 
 
